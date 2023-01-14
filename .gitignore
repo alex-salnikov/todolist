@@ -105,3 +105,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# replit
+.breakpoints
+.replit
+replit.nix
